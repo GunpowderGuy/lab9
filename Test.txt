@@ -1,0 +1,43 @@
+# lab9
+lab 9 machine learning
+
+python3 digit.py
+
+Setting up...
+Starting training on cpu
+
+=== Epoch 1 ===
+  Batch 100/938 - Loss: 0.3979
+  Batch 200/938 - Loss: 0.2043
+  Batch 300/938 - Loss: 0.1867
+  Batch 400/938 - Loss: 0.1803
+  Batch 500/938 - Loss: 0.0675
+  Batch 600/938 - Loss: 0.1120
+  Batch 700/938 - Loss: 0.1129
+  Batch 800/938 - Loss: 0.0882
+  Batch 900/938 - Loss: 0.0658
+Epoch 1 done in 693.6 sec. Total Loss: 230.1455
+
+=== Epoch 2 ===
+  Batch 100/938 - Loss: 0.1083
+  Batch 200/938 - Loss: 0.1147
+  Batch 300/938 - Loss: 0.0292
+  Batch 400/938 - Loss: 0.0958
+  Batch 500/938 - Loss: 0.0882
+  Batch 600/938 - Loss: 0.0820
+  Batch 700/938 - Loss: 0.0602
+  Batch 800/938 - Loss: 0.0596
+  Batch 900/938 - Loss: 0.0269
+Epoch 2 done in 718.5 sec. Total Loss: 73.7802
+
+=== Epoch 3 ===
+  Batch 100/938 - Loss: 0.0342
+  Batch 200/938 - Loss: 0.0184
+  Batch 300/938 - Loss: 0.1230
+  Batch 400/938 - Loss: 0.0190
+  Batch 500/938 - Loss: 0.0355
+  Batch 600/938 - Loss: 0.0361
+  Batch 700/938 - Loss: 0.0135
+  Batch 800/938 - Loss: 0.0417
+  Batch 900/938 - Loss: 0.0126
+Epoch 3 done in 716.4 sec. Total Loss: 55.7812
